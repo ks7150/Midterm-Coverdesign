@@ -1,60 +1,10 @@
-# p5.js Template
 
-This is a README file that can be used to describe and document your assignment.
-
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
-
----
----
-
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
-
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
 
 
 Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+![illustration](https://i.postimg.cc/TPZyFC8S/gobletoffire.jpg)
 
 
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
+What book did you choose? What is it about?
+The book i chose is from the harry potter series- Goblet of fire, and is theri fourth book that was released.
+In the book I plan to cover the most iconic scenes, my intial ideas revolve around the goblet of fire and how it was choosing people, this would be click based, with the paper pieces appearing randomly when clicked and the goblet being in the middle. The second idea i have is mouse tracking based, with a maze and harrys scar as the symbol being traced out when the cursor moves.I am trying to incorporate some time based aspect too. My initial thought is about changing the color of the background from a bright one to a darker color as it happens in the movie as well, but i am still trying to figure out some other way to incorporate time based movement as well. 
